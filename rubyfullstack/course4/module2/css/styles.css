@@ -17,6 +17,11 @@ h2 {
 p {
 	margin: 60px 10px 10px 10px;
 }
+
+div.center {
+	margin: 0 auto;
+}
+
 section {
 	border: 1px solid black;
 	overflow: auto;
@@ -25,4 +30,16 @@ section {
 	margin: 10px;
 	
 
+}
+
+.section1Color {
+	background-color: green;
+}
+
+.section2Color {
+	background-color: red;
+}
+
+.section3Color {
+	background-color: blue;
 }
